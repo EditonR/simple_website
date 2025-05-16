@@ -39,4 +39,5 @@ list-style: square;
 .dark-theme {
   --bg: var(--black);
   --fontColor: var(--green);
+  
 }
